@@ -43,7 +43,7 @@
         </td>
         <td width="100" align="center">
             <a href="https://github.com/유지오">
-                <img src="https://avatars.githubusercontent.com/u/4856038023?v=4" width="60" height="60">
+                <img src="https://animalspet.co.kr/web/product/medium/202303/87006965eb2422d857fa7b69f471a7cd.jpg" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
@@ -89,8 +89,8 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="https://github.com/dkjsaflkdjl">
-                <img src="http://img.shields.io/badge/sdljfjasdklja?style=social&logo=github"/>
+            <a href="https://github.com/유지오">
+                <img src="http://img.shields.io/badge/유지오-green?style=social&logo=github"/>
             </a>
         </td>
          <td width="100" align="center">
