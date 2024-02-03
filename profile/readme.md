@@ -24,14 +24,82 @@
    <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
 </div>
 
-## 3. 팀 구성
-- 김규리: 프론트엔드 개발
-- 김창민: 백엔드, DevOps 개발
-- 오윤진*: AI, MLOps 개발
-- 유지오: UI/UX 디자인
-  
+## 3. Team Member
+<table width="950px">
+    <thead>
+    </thead>
+    <tbody>
+    <tr>
+        <th>사진</th>
+         <td width="100" align="center">
+            <a href="https://github.com/dhdbsrlw">
+                <img src="https://avatars.githubusercontent.com/u/87515295?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Grit03">
+                <img src="https://avatars.githubusercontent.com/u/68225058?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/유지오">
+                <img src="https://avatars.githubusercontent.com/u/4856038023?v=4" width="60" height="60">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
+            </a>
+    </tr>
+    <tr>
+        <th>이름</th>
+        <td width="100" align="center">오윤진</td>
+        <td width="100" align="center">김규리</td>
+        <td width="100" align="center">유지오</td>
+        <td width="100" align="center">김창민</td>
+    </tr>
+    <tr>
+        <th>역할</th>
+        <td width="150" align="center">
+            Team Leader<br>
+            AI, MLOps 개발<br>
+        </td>
+        <td width="150" align="center">
+            Frontedn<br>
+        </td>
+        <td width="150" align="center">
+            UI/UX Design<br>
+        </td>
+        <td width="150" align="center">
+            Backend<br>
+            DevOps<br>
+        </td>
+    </tr>
+    <tr>
+        <th>GitHub</th>
+        <td width="100" align="center">
+            <a href="https://github.com/dhdbsrlw">
+                <img src="http://img.shields.io/badge/dhdbsrlw?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/Grit03">
+                <img src="http://img.shields.io/badge/alswlfl29-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/dkjsaflkdjl">
+                <img src="http://img.shields.io/badge/sdljfjasdklja?style=social&logo=github"/>
+            </a>
+        </td>
+         <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
+            </a>
+    </tr>
+    </tbody>
+</table>
 <hr>
-<br><br>
 
 ### Flowchart
 ![플로우 차트 (최종)](https://github.com/eternal-tales/.github/assets/59727077/22273b80-0483-452c-bf79-6605addcd83b)
