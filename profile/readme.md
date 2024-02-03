@@ -71,7 +71,7 @@
             UI/UX Design<br>
         </td>
         <td width="150" align="center">
-            Backend<br>
+            Backend<br>
             DevOps<br>
         </td>
     </tr>
@@ -79,7 +79,7 @@
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/dhdbsrlw">
-                <img src="http://img.shields.io/badge/dhdbsrlw?style=social&logo=github"/>
+               <img src="http://img.shields.io/badge/dhdbsrlw?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
