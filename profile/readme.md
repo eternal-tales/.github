@@ -66,7 +66,7 @@
             AI, MLOps 개발<br>
         </td>
         <td width="150" align="center">
-            Frontedn<br>
+            Frontend<br>
         </td>
         <td width="150" align="center">
             UI/UX Design<br>
