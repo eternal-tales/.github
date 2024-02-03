@@ -11,6 +11,10 @@
 ### 갤러리 스크린
 ![스크린 2](https://github.com/eternal-tales/.github/assets/59727077/59416c07-ac78-4231-bf2c-22cfdf88a6df)
 
+### 시연 영상
+https://github.com/eternal-tales/.github/assets/59727077/a04115e3-8ae1-4a81-8bf4-f18698a845f7
+
+
 
 ### Reference
 - https://prometheus-ai.net/hackathon
