@@ -31,9 +31,9 @@
     <tbody>
     <tr>
         <th>사진</th>
-         <td width="100" align="center">
-            <a href="https://github.com/dhdbsrlw">
-                <img src="https://avatars.githubusercontent.com/u/87515295?v=4" width="60" height="60">
+        <td width="100" align="center">
+            <a href="https://github.com/changminkim-329">
+                <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
             </a>
         </td>
         <td width="100" align="center">
@@ -50,6 +50,7 @@
             <a href="https://github.com/changminkim-329">
                 <img src="https://avatars.githubusercontent.com/u/59727077?v=4" width="60" height="60">
             </a>
+        </td>
     </tr>
     <tr>
         <th>이름</th>
@@ -79,12 +80,12 @@
         <th>GitHub</th>
         <td width="100" align="center">
             <a href="https://github.com/dhdbsrlw">
-               <img src="http://img.shields.io/badge/dhdbsrlw?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/dhdbsrlw-green?style=social&logo=github"/>
             </a>
-        </td>
+         </td>
         <td width="100" align="center">
             <a href="https://github.com/Grit03">
-                <img src="http://img.shields.io/badge/alswlfl29-green?style=social&logo=github"/>
+                <img src="http://img.shields.io/badge/Grit03-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
@@ -96,6 +97,7 @@
             <a href="https://github.com/changminkim-329">
                 <img src="http://img.shields.io/badge/changminkim-329-green?style=social&logo=github"/>
             </a>
+         </td>
     </tr>
     </tbody>
 </table>
