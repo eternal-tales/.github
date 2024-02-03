@@ -1,9 +1,8 @@
-# Eternal Tales
+# Eternal Tales: 멀티모달 AI 챗봇과의 대화를 통한 펫로스 극복 서비스
 
 ## 1. 소개
 ![4K_이터널테일즈_발표 자료_compressed-01](https://github.com/eternal-tales/.github/assets/59727077/02f385dc-853a-435a-a91b-a68951824e1c)
 ‘이터널 테일즈’는 가족 구성원으로서 함께 지낸 반려동물을 먼저 떠나보내면서 상실감을 경험하는 이들을 위해, 반려동물과 함께했던 소중한 일상을 다시금 경험 및 추억하고, 최종적으로는 디지털 포토카드를 통해 완전히 추모할 수 있게 함으로써, 이후 반려인이 다시 건강한 일상으로 회복할 수 있도록 보조하는 역할을 수행하는 서비스입니다.
-
 
 ## 2. Tech Stack
 <div align =center> 
@@ -24,6 +23,13 @@
   <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
    <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
 </div>
+
+## 3. 팀 구성
+- 김규리: 프론트엔드 개발
+- 김창민: 백엔드, DevOps 개발
+- 오윤진*: AI, MLOps 개발
+- 유지오: UI/UX 디자인
+  
 <hr>
 <br><br>
 
