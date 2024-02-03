@@ -24,7 +24,7 @@
    <img src="https://img.shields.io/badge/notion-ffffff?style=for-the-badge&logo=notion&logoColor=black">
 </div>
 
-## 3. Team Member
+## 3. 4K Team Member
 <table width="950px">
     <thead>
     </thead>
