@@ -63,7 +63,7 @@
         <th>역할</th>
         <td width="150" align="center">
             Team Leader<br>
-            AI, MLOps 개발<br>
+            AI, MLOps<br>
         </td>
         <td width="150" align="center">
             Frontend<br>
